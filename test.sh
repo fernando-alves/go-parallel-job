@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo 'Testing'
+echo "Im job ${job_counter} of ${total_jobs}"
