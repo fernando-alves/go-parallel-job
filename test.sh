@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo "Im job ${job_counter} of ${total_jobs}"
+echo "Im job ${job-counter} of ${total-jobs}"
